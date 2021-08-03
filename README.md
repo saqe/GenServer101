@@ -1,12 +1,15 @@
 # GenServer101
 
-**TODO: Add description**
+**A simple app to understand GenServer and it's core features.**
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `genserver101` to your list of dependencies in `mix.exs`:
+### Clone the repo, install dependencies using
+```shell 
+mix deps.get  
+```
 
+t
 ```elixir
 def deps do
   [
