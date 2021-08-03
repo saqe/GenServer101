@@ -9,7 +9,7 @@
 mix deps.get  
 ```
 
-t
+
 ```elixir
 def deps do
   [
@@ -18,7 +18,12 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/genserver101](https://hexdocs.pm/genserver101).
 
+# EXECUTION
+To execute the code. 
+```shell
+iex -S mix
+```
+Terminal will be started.
+
+iex(1)>  `Client.perform_task()`
